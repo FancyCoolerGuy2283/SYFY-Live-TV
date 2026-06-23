@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fMWhUE.png", SYFY East
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4fMWhUE.png", SYFY West
+http://restream-live.realiptv.to:8080/live/monstercable/Dq6jjknxCr/3841.ts
